@@ -29,11 +29,11 @@ Download & install Node.js LTS from 👉 https://nodejs.org
 
 After installation, check it works:
 
-**node -v
-npm -v**
+**node -v**
+**npm -v**
 
 
-`You should see version numbers.`
+You should see version numbers.
 
 3. Install dependencies
 
@@ -48,14 +48,14 @@ This will install all required packages (React, Vite, Tailwind, pdf.js, tesserac
 
 After dependencies finish installing:
 
-npm run dev
+**npm run dev**
 
 
 👉 The terminal will show something like:
 
   VITE v5.0  ready in 2s
 
- ** ➜  Local:   http://localhost:5173/**
+➜  Local:   http://localhost:5173/
 
 
 Open http://localhost:5173
